@@ -29,6 +29,8 @@ Criar um painel visual simples e funcional para explorar os dados dos preços e 
 - [NumPy](https://numpy.org/) – Biblioteca de suporte para operações numéricas (indiretamente usada pelo Pandas).
 
 ---
+## Resultado Final
+![Deploy Final](https://github.com/stephaniesouza25/Analise_de_combustiveis/blob/main/Deploy.jpg)
 
 ## Como executar o projeto
 
@@ -65,5 +67,5 @@ streamlit run app.py
 6. O app abrirá automaticamente no navegador padrão. Se não abrir, acesse:
 http://localhost:8501
 
-## Resultado Final
-![Deploy Final](https://github.com/stephaniesouza25/Analise_de_combustiveis/blob/main/Deploy.jpg)
+
+
