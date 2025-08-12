@@ -44,3 +44,24 @@ Criar um painel visual simples e funcional para explorar os dados dos preços e 
 ```bash
 git clone https://github.com/seu-usuario/analise-combustiveis-br.git
 cd analise-combustiveis-br
+
+2. Crie um ambiente virtual (opcional, mas recomendado):
+python -m venv venv
+
+3. Ative o ambiente virtual:
+
+* No Windows:
+venv\Scripts\activate
+
+* No Linux/macOS:
+source venv/bin/activate
+
+4. Instale as dependências:
+pip install -r requirements.txt
+
+5. Execute o app:
+streamlit run app.py
+
+6. O app abrirá automaticamente no navegador padrão. Se não abrir, acesse:
+http://localhost:8501
+
