@@ -65,3 +65,5 @@ streamlit run app.py
 6. O app abrirá automaticamente no navegador padrão. Se não abrir, acesse:
 http://localhost:8501
 
+## Resultado Final
+![Deploy Final](https://github.com/stephaniesouza25/Analise_de_combustiveis/blob/main/Deploy.jpg)
